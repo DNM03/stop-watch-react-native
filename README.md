@@ -10,3 +10,5 @@ Run this command to start expo:
 npx expo start
 ```
 Use your phone camera to scan the QR code.
+
+NOTE: Make sure your phone connects to the same wifi as your computer.
